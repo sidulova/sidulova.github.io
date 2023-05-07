@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Undergradute Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Pre-Calculus & Calculus"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Minnesota, Department of Mathematics"
 date: 2014-01-01
-location: "City, Country"
+location: "Minneapolis, Minnesota"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Organized and led weekly recitations sessions for ~60 students/semester for pre-calculus, calculus classes
+- Graded homework, exams, quizzes and reported statistics of students’ performance
+- Hosted office hours and appointment-based tutoring sessions
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
