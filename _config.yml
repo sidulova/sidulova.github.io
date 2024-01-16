@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mariia Sidulova"
   avatar           : "bio-photo.jpg"
-  bio              : "Machine Learning Engineer | Biomedical Engineer | PhD Student"
+  bio              : "Machine Learning Engineer | Biomedical Engineer "
   location         : "Washington DC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LxEDIEcAAAAJ&hl=en&oi=ao"
-  email            :
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mariia-sidulova"
+  linkedin         : "mariia-sidulova"
   orcid            : 
   pinterest        :
   soundcloud       :

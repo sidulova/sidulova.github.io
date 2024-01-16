@@ -27,5 +27,5 @@ The primary objective of this Python package is to explore whether incorporating
 
 Ultimate Must-See Movie List Aggregator
 ====
-This Jupyter Notebook project is all about creating the ultimate must-watch movie list! Using some web-scraping magic, it pulls in suggestions from different corners of the internet and compiles them into a consolidated list. I am contunuously working on this project and trying to make my own personalized movie recommendation system :popcorn: .<br /> 
+This Jupyter Notebook project is all about creating the ultimate must-watch movie list! Using some web-scraping magic, it pulls in suggestions from different corners of the internet and compiles them into a consolidated list. I am continuously working on this project and trying to make my own personalized movie recommendation system :popcorn: .<br /> 
 :floppy_disk: [GitHub repo](https://github.com/sidulova/UltimateMustSeeMovieList.git)<br /> 
