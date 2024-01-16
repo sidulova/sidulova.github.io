@@ -11,28 +11,28 @@ redirect_from:
 
 About
 ======
-Hello! My name is Mariia and I am currently a PhD student at George Washington University and ORISE Fellow at Food and Drug Administration. My doctoral research focuses on generative models for functional connectivity analysis of fMRI data. My FDA research project is about unsupervised clustering algorithms for domain identification in medical imaging. When I am not coding, or writing a paper draft, I love to play tennis, snowboard, explore art and go to standup shows.
+Hello! My name is Mariia, and I am a Machine Learning Engineer currently working at the Food and Drug Administration (FDA). My doctoral research focused on the application of generative models for the identification of atypical functional connectivity in fMRI data. My FDA research projects involve developing unsupervised clustering algorithms for identification of hidden domains in medical imaging. **Looking for a full-time Machine Learning position.** 
+
+When I am not coding or drafting a paper, I love to run, snowboard, explore art, and attend stand-up shows.
+
+<div style="text-align: center;">
+  <img src="../images/hobbies.jpg" alt="award img" width="400" style="display: inline-block;">
+</div>
 
 
-Currently Working on
-================
-DomID
-fMRI Autoencoders
-DDPM for fMRI
-My Orange Theory Stats
-Something
+Resume *(last updated January 2024)*
+======
+[Download Mariia's Resume](/files/resume.pdf)<br />
+[Download Mariia's CV](/files/cv.pdf)<br />
+
 
 Currently Reading
 =================
-"A People's History of the United States" by Howard Zinn
-
-
-"The Brothers Karamazov" by Fyodor Dostoevsky
+"A People's History of the United States" by Howard Zinn<br />
+"The Brothers Karamazov" by Fyodor Dostoevsky<br />
 
 
 Currently Listening to
 =======================
-
-[Lex Fridman interview with Sam Altman](https://youtu.be/L_Guz73e6fw)
-
-[PLÜM - Just One Dance (feat. Tanaë)](https://www.youtube.com/watch?v=U-9r_REkZqQ)
+[Morning Brew Daily](https://www.youtube.com/@MorningBrewDailyShow)<br />
+[PLÜM - Just One Dance (feat. Tanaë)](https://www.youtube.com/watch?v=U-9r_REkZqQ)<br />
